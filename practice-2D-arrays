@@ -1,1 +1,19 @@
-//start here
+//Challenge 1: Student Scores
+let allScores = [
+    [82, 91, 94], //student 1
+    [66, 75, 82], //student 2
+    [76, 83, 90]  //student 3
+];
+
+//Challenge 2: Build a Seating Grid
+let theaterSeating = [
+    ["AA01","AB02","AC03", "AD04"],
+    ["BA01","BB02","BC03", "BD04"], //AA## (Section, Row, Seat ##)
+    ["CA01","CB02","CC03", "CD04"],
+];
+
+//Challenge 3: Form a Multi-Dimensional Contact List
+let contactsList = [
+    ["Faith", "faithe.dall@gmail.com", "123-456-7890"], //name, email, phone number
+    ["Rachel", "someonecool@email.com", "098-765-4321"]
+];
